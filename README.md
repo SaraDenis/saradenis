@@ -2,16 +2,16 @@
 
 👯 Constant search to collaborate/contribute on the FRONTEND side for web and mobile applications
 
-💼 You can see my portfolio! [https.google.com](aquí) - 🌱 Work in progress ...
+💼 You can see my portfolio! <a href="https//www.google.com" target="_blank">Aquí</a> - 🌱 Work in progress ...
 
 💬 Would you like to know something else? 
 Contact me! 
 
 Email: proyectos.denis@gmail.com 
 
-Linkedin: [https://www.linkedin.com/in/sara-denis/](Sara Denis)  
+Linkedin: <a href="https://www.linkedin.com/in/sara-denis/" target="_blank">Sara Denis</a>  
 
-Twitter: [https://twitter.com/SariDeGu](Sari)
+Twitter: <a href="https://twitter.com/SariDeGu" target="_blank">Sari</a>
 
 
 <br/>
